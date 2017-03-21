@@ -1,7 +1,7 @@
 {
       "name"                        : "db-dump"
     , "description"                 : "dumps a postgres schema and a partial set of tables into sql files"
-    , "version"                     : "1.0.0"
+    , "version"                     : "1.1.0"
     , "homepage"                    : "https://github.com/eventEmitter/db-dump"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)"
     , "license"                     : "MIT"
