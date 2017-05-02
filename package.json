@@ -16,7 +16,7 @@
         "url"                       : "https://github.com/eventEmitter/db-dump/issues"
     }
     , "dependencies": {
-          "ee-log"                  : "1.x"
+          "ee-log"                  : "^2.0.2"
         , "readline"                : "1.x"
     }
     , "devDependencies": {
