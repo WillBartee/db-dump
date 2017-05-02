@@ -1,5 +1,7 @@
 # db-dump
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/db-dump.svg)](https://greenkeeper.io/)
+
 dumps a postgres db and some of its tables to sql files
 
 ### Usage
